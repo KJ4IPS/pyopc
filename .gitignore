@@ -1,0 +1,5 @@
+# Outputs
+build/
+
+# Compiled Python
+*.pyc
